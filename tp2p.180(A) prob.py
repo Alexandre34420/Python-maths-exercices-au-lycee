@@ -1,0 +1,144 @@
+﻿from random import*
+def pluie():
+    N=0
+    for i in range(30):
+        x=randint(1,365)
+        if x<=170:
+            N=N+1
+    return N/30
+
+def echantillon():
+    L=[]
+    for i in range(400):
+        L.append(i)
+    return(L)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
